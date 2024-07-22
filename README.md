@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently studying computer science at university<br>🎯 Goals: Become a senior web developer as well as software developer<br>🎲 Fun fact: I love foxes 🦊</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently studying computer science at university<br>🎯 Goals: Become a senior web developer as well as software developer<br>🎲 Fun fact: I love foxes 🦊</p>
 
 ###
 
