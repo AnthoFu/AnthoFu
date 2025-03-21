@@ -11,7 +11,7 @@
 ###
 
 <p align="left">
-✨ Creando bugs desde 2021<br>
+✨ Creando bugs desde 2022<br>
 📚 Estudiante de Ciencias de la Computación<br>
 🎯 Objetivos: Convertirme en Senior Web Developer y Software Developer<br>
 🎲 Dato curioso: Amo los zorros 🦊<br>
