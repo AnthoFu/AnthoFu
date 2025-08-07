@@ -45,7 +45,6 @@
 </p>
 
 <table align="center">
-  <!-- Tu tabla de tecnologías se mantiene igual, ya que usa los logos oficiales -->
   <tr>
     <td align="center"><strong>Lenguajes</strong></td>
     <td>
@@ -69,6 +68,7 @@
     <td align="center"><strong>Back-End</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+      <img src="https://img.shields.io/badge/Odoo-7C7BAD?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo">
     </td>
   </tr>
   <tr>
@@ -102,7 +102,7 @@
 
 ---
 
-<!-- ========= INICIO DE LA SECCIÓN DE ESTADÍSTICAS (TEMA PERSONALIZADO) ========= -->
+<!-- ========= INICIO DE LA SECCIÓN DE ESTADÍSTICAS ========= -->
 ## 📊 Mis Estadísticas en GitHub
 
 <div align="center">
@@ -116,7 +116,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AnthoFu&background=16132A&stroke=F2F2F2&ring=F39200&fire=F39200&currStreakNum=F2F2F2&sideNums=F2F2F2&currStreakLabel=F2F2F2&sideLabels=F2F2F2&dates=F2F2F2&border=25214E" alt="Racha de Commits de AnthoFu" />
 </div>
 
-<!-- ========= INICIO DEL GRÁFICO DE ACTIVIDAD (TEMA PERSONALIZADO) ========= -->
+<!-- ========= INICIO DEL GRÁFICO DE ACTIVIDAD ========= -->
+
 <!-- ========= INICIO DEL GRÁFICO DE SERPIENTE ========= -->
 <div align="center">
   <h3>Mi Actividad Reciente como una Serpiente 🐍</h3>
