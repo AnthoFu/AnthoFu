@@ -3,7 +3,7 @@ name: Generate Snake Animation
 
 # Cuándo se ejecutará
 on:
-  # Se ejecuta automáticamente cada 12 horas
+  # Se ejecutará automáticamente cada 12 horas
   schedule:
     - cron: "0 */12 * * *"
   # Permite ejecutarlo manualmente desde la pestaña Actions
@@ -14,30 +14,28 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # 1. Clona tu repositorio para poder escribir en él
+      # 1. Clona el repositorio para poder escribir en él
       - uses: actions/checkout@v3
 
       # 2. Genera la animación de la serpiente
       - uses: Platane/snk@v3
         id: snake-gif
         with:
-          # Tu nombre de usuario de GitHub
+          # Usuario de GitHub
           github_user_name: AnthoFu
           
           # Especifica los archivos de salida
-          # Aquí le decimos que guarde la imagen en la carpeta "output"
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#F39200&color_dots=#25214E,#16132A,#F2F2F2,#F39200,#25214E
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#F39200&color_dots=#25214E,#16132A,#F2F2F2,#F39200,#25214E
 
-      # 3. Empuja los archivos generados de vuelta a tu repositorio
+      # 3. Empuja los archivos generados de vuelta al repositorio
+      #    Aquí usamos una acción que maneja el push a la rama `output` donde
+      #    se almacenarán los archivos generados.
+      # Este es el "mensajero", solo necesita saber QUÉ carpeta y a DÓNDE llevarla.
       - name: Push snake animation
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          github_user_name: AnthoFu
-          outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#F39200&color_dots=#F2F2F2,#e9e9e9,#d1d1d1,#b8b8b8,#a0a0a0
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#F39200&color_dots=#F2F2F2,#e9e9e9,#d1d1d1,#b8b8b8,#a0a0a0
           target_branch: output
           build_dir: dist
         env:
