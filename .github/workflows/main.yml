@@ -26,8 +26,8 @@ jobs:
           
           # Especifica los archivos de salida
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#F39200&color_dots=#25214E,#25214E,#F2F2F2,#F39200,#16132A
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#F39200&color_dots=#16132A,#25214E,#F2F2F2,#F39200,#16132A
+            dist/github-contribution-grid-snake.svg?color_snake=#F39200&color_dots=#25214E,#16132A,#F39200,#F2F2F2,#16132A
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#F39200&color_dots=#25214E,#16132A,#F39200,#F2F2F2,#16132A
 
       # 3. Empuja los archivos generados de vuelta al repositorio
       #    Aquí usamos una acción que maneja el push a la rama `output` donde
