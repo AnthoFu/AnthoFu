@@ -24,10 +24,10 @@
 ---
 
 <!-- ========= INICIO DE LA SECCIÓN "SOBRE MÍ" ========= -->
-## 👨🏻‍💻 Sobre Mí
+## 👨🏻‍💻 About AnthoFu
 
 <p align="left">
-  Soy un apasionado desarrollador web y estudiante de Ingeniería de la Informática, enfocado en construir soluciones digitales eficientes y escalables. Me encanta enfrentar nuevos desafíos y aprender constantemente sobre las últimas tecnologías del mercado.
+  Soy un apasionado desarrollador full-stack y actualmente estudiante de <b>Ingeniería de la Informática</b>, enfocado en construir soluciones digitales eficientes y escalables. Me encanta enfrentar nuevos desafíos y aprender constantemente sobre las últimas tecnologías del mercado.
 </p>
 
 - 🎯 **Objetivos:** Convertirme en un desarrollador Senior y arquitecto de software.
@@ -52,6 +52,8 @@
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
       <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
+      " alt="PHP">
     </td>
   </tr>
   <tr>
@@ -69,6 +71,7 @@
     <td>
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
       <img src="https://img.shields.io/badge/Odoo-7C7BAD?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo">
+      <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
     </td>
   </tr>
   <tr>
@@ -96,6 +99,9 @@
       <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" alt="ClickUp">
       <img src="https://img.shields.io/badge/Miro-F2CA4C?style=for-the-badge&logo=miro&logoColor=black" alt="Miro">
       <img src="https://img.shields.io/badge/Scrum-0077c8?style=for-the-badge&logo=agile&logoColor=white" alt="Scrum">
+      <img src="https://img.shields.io/badge/Platzi-13161c?style=for-the-badge&logo=platzi&logoColor=0ae98a" alt="platzi">
+      <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" alt="udemy">
+      <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=whit" alt="markdown">
     </td>
   </tr>
 </table>
