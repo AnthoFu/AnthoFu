@@ -136,13 +136,15 @@
 ---
 
 <!-- ========= INICIO DE LA SECCIÓN DE TROFEOS (TEMA GRUVBOX) ========= -->
-## 🏆 Trofeos de GitHub
+<!-- ## 🏆 Trofeos de GitHub
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AnthoFu&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4" alt="Trofeos de GitHub de AnthoFu" />
 </div>
 
----
+--- 
+-->
+
 <p align="center">
   <i>"Solo soy un procrastinador más en este mundo que anhela la perfección pero castiga a aquellos que fallan intentando conseguirla." – Anthony Fuentes</i>
 </p>
