@@ -6,7 +6,7 @@
 <!-- ========= INICIO DE LA SECCIÓN DE INTRODUCCIÓN ANIMADA (COLOR PERSONALIZADO) ========= -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F39200&center=true&vCenter=true&width=500&lines=¡Hola!+👋+Soy+AnthoFu+🦊;Front-End+Developer+de+🇻🇪;Estudiante+de+Ingeniería;Creando+sueños+en+código;Amante+de+los+zorros+🦊" alt="Introducción animada">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F39200&center=true&vCenter=true&width=500&lines=¡Hola!+👋+Soy+AnthoFu+🦊;Full-Stack+Developer+de+🇻🇪;Estudiante+de+Ingeniería;Creando+sueños+en+código;Amante+de+los+zorros+🦊" alt="Introducción animada">
   </a>
 </div>
 
